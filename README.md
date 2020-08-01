@@ -10,5 +10,5 @@ Given recent social events, understanding the change in sentiment polarity surro
 
 * [Custom Word Embedding CNN/RNN ](https://github.com/mitchellcli/Tweets-Sentiment-Analysis-using-Deep-Learning-Techniques/blob/master/CNN_RNNCustomEmbdeddingFinal.ipynb)
 * [Sentiment Analysis using BERT Complete Pipeline](https://github.com/mitchellcli/Tweets-Sentiment-Analysis-using-Deep-Learning-Techniques/blob/master/BERT_Fine_Tuning_Sentence_Classification_final.ipynb)
-* [Final Research Paper](https://github.com/mitchellcli/Tweets-Sentiment-Analysis-using-Deep-Learning-Techniques/blob/master/Final%20Report.pdf)
+* [Final Research Paper](https://github.com/mitchellcli/Tweets-Sentiment-Analysis-using-Deep-Learning-Techniques/blob/master/Understanding%20Polarity%20of%20Social%20Justice%20Tweets%20using%20Deep%20Learning%20Techniques.pdf)
 * [Data Sets that are allowed to be published](https://github.com/mitchellcli/Tweets-Sentiment-Analysis-using-Deep-Learning-Techniques/tree/master/Data%20Sets)
