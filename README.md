@@ -7,5 +7,5 @@ Given recent social events, understanding the change in sentiment polarity surro
 
 * [Custom Word Embedding CNN/RNN ](https://github.com/mitchellcli/Tweets-Sentiment-Analysis-using-Deep-Learning-Techniques/blob/master/CNN_RNNCustomEmbdeddingFinal.ipynb)
 * [Sentiment Analysis using BERT Complete Pipeline](syllabus/)
-* [Final Research Paper](assignment/)
+* [Final Research Paper](https://github.com/mitchellcli/Tweets-Sentiment-Analysis-using-Deep-Learning-Techniques/blob/master/Final%20Report.pdf)
 * [Data Sets that are allowed to be published]()
